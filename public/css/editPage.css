@@ -1,0 +1,7 @@
+textarea.form-control {
+	border: 1px solid blue;
+	width: 500px;
+	height: 200px;
+	margin: 10px;
+	margin-left: 30%;
+}
